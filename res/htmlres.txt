@@ -1,0 +1,18 @@
+<html>
+<head>
+<title>eRay Studios Internet Scrollbar Mastermind Version 1</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<!--CSS_TAG-->
+<body bgcolor="#FFFFFF" text="#000000" leftmargin="5" topmargin="5" marginwidth="0" marginheight="0">
+<p><b><font face="Arial, Helvetica, sans-serif">DM CSS Scrollbar Designer</font></b><font size="2"><br>
+  Designed for Internet Explorer 5 and above<br>
+  Codeed by Dreamvb This program is FREEWARE</font></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><br>
+</p>
+<div align="left"></div>
+</body>
+</html>
